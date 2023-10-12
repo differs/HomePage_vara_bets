@@ -24,7 +24,7 @@ function App() {
           
         </p>
         <p>
-        BUILT WITH BLOCKCHAIN TECHNOLOGE 
+        BUILT WITH BLOCKCHAIN TECHNOLOGY 
         </p>
         <p>
           ON VARA CHAIN
